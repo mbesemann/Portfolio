@@ -1,0 +1,49 @@
+body {
+    background-color: lightgrey;
+}
+
+h2, h3 {
+    color: rgb(52, 152, 67);
+}
+
+.nav-link {
+    color: white;
+    font-size: 24px;
+}
+
+header, section , footer{
+    padding: 20px;
+    margin: 0px 20px 0px 20px;
+}
+
+header , footer {
+    margin-top: 0px;
+    background-color: rgb(52, 152, 67);
+    color: white;
+}
+
+footer {
+    text-align: center;
+}
+
+section {
+    background-color: white;
+}
+
+#about-image {
+    width: 200px;
+    float: left;
+    margin-right: 20px;
+}
+
+figure:hover {
+    font-weight: bold;
+}
+
+img {
+    padding-bottom: 20px;
+}
+
+.nodec {
+    list-style-type: none;
+}
